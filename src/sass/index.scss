@@ -1,3 +1,5 @@
-@import './common';
-@import './example';
-@import './home-gallery';
+@import './utils/variables.scss';
+@import './components/common';
+@import './components/aside';
+@import './components/meters';
+@import './components/main';

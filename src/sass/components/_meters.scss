@@ -1,0 +1,39 @@
+.meter {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 6px;
+    border-radius: 30px;
+    border: 1px solid $skill_color;
+}
+
+.skill {
+    height: 3px;
+    background-color: $skill_color;
+    padding: 1%;
+    border-radius: 30px;
+}
+
+.polish {
+    width: 100%;
+}
+
+.english {
+    width: 70%;
+}
+
+.html {
+    width: 90%;
+}
+
+.css {
+    width: 85%;
+}
+
+.js {
+    width: 60%;
+}
+
+.available {
+    color: $dot_green;
+}
